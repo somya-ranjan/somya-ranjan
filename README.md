@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Somyaranjan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+
 [![MasterHead](https://camo.githubusercontent.com/787941ceccc55e92cdda04ed77149e708bcaa74264b03ae17eded3420c999d2a/68747470733a2f2f7777772e73686f6f7464617274736f6c7574696f6e732e636f6d2f696d672f736572766963652f7765622d64657369676e2e676966)](https://somyaranjan.io)
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="coding" />
-
+<h1 align="center">Hi 👋, I'm Somyaranjan</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somya-ranjan&label=Profile%20views&color=0e75b6&style=flat" alt="somya-ranjan" /> </p>
 
 <p align="left"> <a href="https://twitter.com/somya_ranjan_" target="blank"><img src="https://img.shields.io/twitter/follow/somya_ranjan_?logo=twitter&style=for-the-badge" alt="somya_ranjan_" /></a> </p>
