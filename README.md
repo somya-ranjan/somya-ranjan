@@ -3,25 +3,12 @@
 
 ---
 
-<table>
-  <tr>
-    <td style="width: 60%; vertical-align: top;">
-
-<h2>🌟 About Me</h2>
-
+## 🌟 About Me
 - 🔭 Currently building a **full-stack cloud kitchen platform** with real-time order tracking, analytics & AI-powered insights  
 - 📚 Learning **Python** & AI for intelligent app development  
 - 🎯 Goal: Become an **AI Full-Stack Developer** capable of deploying end-to-end AI applications  
 - 💡 Passionate about crafting **high-performance UI**, optimizing workflows, and exploring **AI-driven solutions**  
-- ⚡ Fun fact: I treat "code review" like detective work 🕵️‍♂️  
-
-    </td>
-    <td style="width: 40%; text-align: center;">
-      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Developer Vector" width="100%"/>
-    </td>
-  </tr>
-</table>
-
+- ⚡ Fun fact: I treat "code review" like detective work 🕵️‍♂️
 
 ---
 
