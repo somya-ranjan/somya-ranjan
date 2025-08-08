@@ -59,15 +59,7 @@
 ![Lazy Loading](https://img.shields.io/badge/Lazy_Loading-8E44AD?style=for-the-badge)
 ![Webpack Optimization](https://img.shields.io/badge/Webpack_Optimization-1C78C0?style=for-the-badge&logo=webpack&logoColor=white)
 
----
 
-## 📊 GitHub Stats & Activity  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" height="165" />
-</p>
-
----
 
 ## 📫 Connect With Me  
 <p align="center">
