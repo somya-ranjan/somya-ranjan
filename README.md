@@ -1,8 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://github.com/somya-ranjan/somya-ranjan/assets/banner-image.png" alt="Developer Banner" width="100%" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Somyaranjan Sethy</h1>
 <h3 align="center">🚀 Frontend Developer | Aspiring AI Full-Stack Engineer | Tech Explorer</h3>
 
@@ -58,7 +53,6 @@
 ![Code Splitting](https://img.shields.io/badge/Code_Splitting-4B8BBE?style=for-the-badge)
 ![Lazy Loading](https://img.shields.io/badge/Lazy_Loading-8E44AD?style=for-the-badge)
 ![Webpack Optimization](https://img.shields.io/badge/Webpack_Optimization-1C78C0?style=for-the-badge&logo=webpack&logoColor=white)
-
 
 
 ## 📫 Connect With Me  
