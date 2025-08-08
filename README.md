@@ -9,8 +9,6 @@
   <tr>
     <td style="width: 60%; vertical-align: top;">
 
-<h2>🌟 About Me</h2>
-
 - 🔭 Currently building a **full-stack cloud kitchen platform** with real-time order tracking, analytics & AI-powered insights  
 - 📚 Learning **Python** & AI for intelligent app development  
 - 🎯 Goal: Become an **AI Full-Stack Developer** capable of deploying end-to-end AI applications  
