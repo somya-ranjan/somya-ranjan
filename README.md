@@ -59,6 +59,7 @@
 ### 📦 Others  
 ![Formik](https://img.shields.io/badge/Formik-FF6F00?style=for-the-badge&logo=formik&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
 ![RESTful API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=rest&logoColor=white)
 ![Responsive Design](https://img.shields.io/badge/Responsive_Design-61DAFB?style=for-the-badge)
 ![Code Splitting](https://img.shields.io/badge/Code_Splitting-4B8BBE?style=for-the-badge)
