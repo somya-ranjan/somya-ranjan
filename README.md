@@ -2,13 +2,26 @@
 <h3 align="center">🚀 Frontend Developer | Aspiring AI Full-Stack Engineer | Tech Explorer</h3>
 
 ---
+<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between;">
+  
+  <div style="flex: 1 1 300px; min-width: 280px;">
+    <h2>🌟 About Me</h2>
+    <ul>
+      <li>🔭 Currently building a <b>full-stack cloud kitchen platform</b> with real-time order tracking, analytics & AI-powered insights</li>
+      <li>📚 Learning <b>Python</b> & AI for intelligent app development</li>
+      <li>🎯 Goal: Become an <b>AI Full-Stack Developer</b> capable of deploying end-to-end AI applications</li>
+      <li>💡 Passionate about crafting <b>high-performance UI</b>, optimizing workflows, and exploring <b>AI-driven solutions</b></li>
+      <li>⚡ Fun fact: I treat "code review" like detective work 🕵️‍♂️</li>
+    </ul>
+  </div>
 
-## 🌟 About Me
-- 🔭 Currently building a **full-stack cloud kitchen platform** with real-time order tracking, analytics & AI-powered insights  
-- 📚 Learning **Python** & AI for intelligent app development  
-- 🎯 Goal: Become an **AI Full-Stack Developer** capable of deploying end-to-end AI applications  
-- 💡 Passionate about crafting **high-performance UI**, optimizing workflows, and exploring **AI-driven solutions**  
-- ⚡ Fun fact: I treat "code review" like detective work 🕵️‍♂️  
+  <div style="flex: 0 1 250px; text-align: center; min-width: 200px;">
+    <img src="https://cdn3d.iconscout.com/3d/premium/thumb/web-developer-5790850-4843031.png" 
+         alt="Developer Vector" width="250" style="max-width: 100%; height: auto;">
+  </div>
+
+</div>
+
 
 ---
 
