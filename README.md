@@ -5,22 +5,23 @@
 
 ## 🌟 About Me
 
-<table>
-  <tr>
-    <td style="width: 60%; vertical-align: top;">
+<div style="display: flex; flex-wrap: wrap; align-items: center;">
 
+  <div style="flex: 1; min-width: 250px; padding: 10px;">
+    
 - 🔭 Currently building a **full-stack cloud kitchen platform** with real-time order tracking, analytics & AI-powered insights  
 - 📚 Learning **Python** & AI for intelligent app development  
 - 🎯 Goal: Become an **AI Full-Stack Developer** capable of deploying end-to-end AI applications  
 - 💡 Passionate about crafting **high-performance UI**, optimizing workflows, and exploring **AI-driven solutions**  
 - ⚡ Fun fact: I treat "code review" like detective work 🕵️‍♂️  
 
-    </td>
-    <td style="width: 40%; text-align: center;">
-      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Developer Vector" width="100%"/>
-    </td>
-  </tr>
-</table>
+  </div>
+
+  <div style="flex: 1; min-width: 250px; text-align: center; padding: 10px;">
+    <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Developer Vector" width="100%" />
+  </div>
+
+</div>
 
 
 
