@@ -60,14 +60,14 @@
   <a href="https://linkedin.com/in/somya-ranjan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:mr.somyars@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
+<p align="center">
+  <a href="https://linkedin.com/in/somya-ranjan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:mr.somyars@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://somyaranjan.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
 
 ---
 
 ⭐ **"Code. Learn. Repeat."** – Always improving, always building.
 
-## 🌐 Connect with Me  
-<p align="left">
-  <a href="https://linkedin.com/in/somya-ranjan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:mr.somyars@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="[https://portfolio-link.com](https://somyaranjan.onrender.com/)" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=react&logoColor=61DAFB"/></a>
-</p>
+
