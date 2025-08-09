@@ -30,7 +30,7 @@ Currently on an exciting journey to transition into **AI-driven full-stack devel
 
     </td>
     <td style="width: 40%; text-align: center;">
-      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Developer Vector" width="100%"/>
+      <img src="https://devtechnosys.com/insights/wp-content/uploads/2022/09/Front-End-Developers.gif" alt="Developer Vector" width="100%"/>
     </td>
   </tr>
 </table>
