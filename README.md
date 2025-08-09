@@ -92,10 +92,11 @@ Currently on an exciting journey to transition into **AI-driven full-stack devel
 ![Lazy Loading](https://img.shields.io/badge/Lazy_Loading-8E44AD?style=for-the-badge)
 ![Webpack Optimization](https://img.shields.io/badge/Webpack_Optimization-1C78C0?style=for-the-badge&logo=webpack&logoColor=white)
 
+
 ---
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=somyaranjan)](https://wakatime.com/@somyaranjan)
-
+[![wakatime](https://wakatime.com/badge/user/d3f11aaf-a43b-43eb-aefb-d7f032c82a8a.svg)](https://wakatime.com/@d3f11aaf-a43b-43eb-aefb-d7f032c82a8a)
 
 ## 📫 Connect With Me  
 <p align="center">
