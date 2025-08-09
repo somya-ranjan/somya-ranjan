@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Somyaranjan Sethy</h1>
-<h3 align="center">https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB Frontend Developer | Aspiring AI Full-Stack Engineer | Tech Explorer</h3>
+<h3 align="center">🚀 Frontend Developer | Aspiring AI Full-Stack Engineer | Tech Explorer</h3>
 
 ---
 
