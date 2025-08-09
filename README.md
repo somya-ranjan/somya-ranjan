@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Somyaranjan Sethy</h1>
-<h3 align="center">🚀 Frontend Developer | Aspiring AI Full-Stack Engineer | Tech Explorer</h3>
-
+<h3 align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" width="25" height="25" style="vertical-align: middle;"/> 
+  Frontend Developer | 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="AI Full-Stack" width="25" height="25" style="vertical-align: middle;"/> 
+  Aspiring AI Full-Stack Engineer | 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Tech Explorer" width="25" height="25" style="vertical-align: middle;"/> 
+  Tech Explorer
+</h3>
 ---
 
 ## 🌟 About Me
