@@ -6,8 +6,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
        alt="AI Full-Stack" width="25" height="25" style="vertical-align: middle;"/> 
   Aspiring AI Full-Stack Engineer | 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" 
-       alt="Tech Explorer" width="25" height="25" style="vertical-align: middle; background-color: red; border-radius: 50%; padding: 2px;"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" 
+       alt="Tech Explorer" width="25" height="25" style="vertical-align: middle; border-radius: 50%; padding: 2px;"/> 
   Tech Explorer
 </h3>
 
