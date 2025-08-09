@@ -1,10 +1,14 @@
 <h1 align="center">Hi 👋, I'm Somyaranjan Sethy</h1>
+---
 <h3 align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" width="25" height="25" style="vertical-align: middle;"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
+       alt="React.js" width="25" height="25" style="vertical-align: middle;"/> 
   Frontend Developer | 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="AI Full-Stack" width="25" height="25" style="vertical-align: middle;"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
+       alt="AI Full-Stack" width="25" height="25" style="vertical-align: middle;"/> 
   Aspiring AI Full-Stack Engineer | 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Tech Explorer" width="25" height="25" style="vertical-align: middle;"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" 
+       alt="Tech Explorer" width="25" height="25" style="vertical-align: middle; background-color: black; border-radius: 50%; padding: 2px;"/> 
   Tech Explorer
 </h3>
 ---
