@@ -94,7 +94,7 @@ Currently on an exciting journey to transition into **AI-driven full-stack devel
 
 ---
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=somya-ranjan)](https://wakatime.com/@somya-ranjan)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=somyaranjan)](https://wakatime.com/@somyaranjan)
 
 
 ## 📫 Connect With Me  
