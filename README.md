@@ -95,8 +95,7 @@ Currently on an exciting journey to transition into **AI-driven full-stack devel
 
 ---
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=somyaranjan)](https://wakatime.com/@somyaranjan)
-[![wakatime](https://wakatime.com/badge/user/d3f11aaf-a43b-43eb-aefb-d7f032c82a8a.svg)](https://wakatime.com/@d3f11aaf-a43b-43eb-aefb-d7f032c82a8a)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/top-langs?username=somyaranjan&langs_count=8)](https://wakatime.com/@somyaranjan)
 
 ## 📫 Connect With Me  
 <p align="center">
@@ -105,6 +104,4 @@ Currently on an exciting journey to transition into **AI-driven full-stack devel
   <a href="https://somyaranjan.onrender.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
----
 
-⭐ **"Code. Learn. Repeat."** – Always improving, always building.
