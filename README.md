@@ -15,7 +15,7 @@
 ---
 
 ## 🌟 About Me
-I’m a passionate **Frontend Developer** with 3.7+ years of experience crafting responsive, high-performance web applications.  
+I’m a passionate **Frontend Developer** with 4+ years of experience crafting responsive, high-performance web applications.  
 Currently on an exciting journey to transition into **AI-driven full-stack development** — blending frontend elegance, backend power, and intelligent systems.
 
 <table>
