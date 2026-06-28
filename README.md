@@ -2,7 +2,7 @@
 <h3 align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
        alt="React.js" width="25" height="25" style="vertical-align: middle;"/> 
-  Frontend Developer | 
+  Ai Frontend Developer | 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
        alt="AI Full-Stack" width="25" height="25" style="vertical-align: middle;"/> 
   Aspiring AI Full-Stack Engineer | 
@@ -15,7 +15,7 @@
 ---
 
 ## 🌟 About Me
-I’m a passionate **Frontend Developer** with 4+ years of experience crafting responsive, high-performance web applications.  
+I’m a passionate **Ai Frontend Developer** with 4.5+ years of experience crafting responsive, high-performance web applications.  
 Currently on an exciting journey to transition into **AI-driven full-stack development** — blending frontend elegance, backend power, and intelligent systems.
 
 <table>
