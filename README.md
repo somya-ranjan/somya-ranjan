@@ -2,7 +2,7 @@
 <h3 align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
        alt="React.js" width="25" height="25" style="vertical-align: middle;"/> 
-  Ai Frontend Developer | 
+  AI Frontend Developer | 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
        alt="AI Full-Stack" width="25" height="25" style="vertical-align: middle;"/> 
   Aspiring AI Full-Stack Engineer | 
