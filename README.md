@@ -15,8 +15,8 @@
 ---
 
 ## 🌟 About Me
-I’m a passionate **Ai Frontend Developer** with 4.5+ years of experience crafting responsive, high-performance web applications.  
-Currently on an exciting journey to transition into **AI-driven full-stack development** — blending frontend elegance, backend power, and intelligent systems.
+I’m a passionate **AI Frontend Developer** with 4.5+ years of experience crafting responsive, high-performance web applications.  
+Currently on an exciting journey to transition into **AI-driven full-stack development**, blending frontend elegance, backend power, and intelligent systems.
 
 <table>
   <tr>
